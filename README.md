@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AYD-7. I'm a beginner in frontend web development.
+- 👋 Hi, I’m @AYD-7.
 
 <!---
 AYD-7/AYD-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
